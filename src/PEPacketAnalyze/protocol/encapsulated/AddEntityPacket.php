@@ -1,5 +1,17 @@
 <?php
 
+/*
+ *▪   ▄▄▄·       ▄▄· ▄ •▄ ▄▄▄ .▄▄▄▄▄
+ *██ ▐█ ▄█▪     ▐█ ▌▪█▌▄▌▪▀▄.▀·•██
+ *▐█· ██▀· ▄█▀▄ ██ ▄▄▐▀▀▄·▐▀▀▪▄ ▐█.▪
+ *▐█▌▐█▪·•▐█▌.▐▌▐███▌▐█.█▌▐█▄▄▌ ▐█▌·
+ *▀▀▀.▀    ▀█▄▀▪·▀▀▀ ·▀  ▀ ▀▀▀  ▀▀▀
+ *
+ *This program is free software:
+ *and PocketEdision Packet Analyze.
+ *
+*/
+
 namespace PEPacketAnalyze\protocol\encapsulated;
 
 use PEPacketAnalyze\protocol\Packet;
@@ -33,7 +45,7 @@ class AddEntityPacket extends Packet{
 			}
 			echo "Type: ".$this->type."\n";
 		}
-		
+
 		//$this->links = [];
 		//$count = $this->getShort();
 		/*for($i = 0; $i < $count; $i++){

@@ -1,5 +1,17 @@
 <?php
 
+/*
+ *▪   ▄▄▄·       ▄▄· ▄ •▄ ▄▄▄ .▄▄▄▄▄
+ *██ ▐█ ▄█▪     ▐█ ▌▪█▌▄▌▪▀▄.▀·•██
+ *▐█· ██▀· ▄█▀▄ ██ ▄▄▐▀▀▄·▐▀▀▪▄ ▐█.▪
+ *▐█▌▐█▪·•▐█▌.▐▌▐███▌▐█.█▌▐█▄▄▌ ▐█▌·
+ *▀▀▀.▀    ▀█▄▀▪·▀▀▀ ·▀  ▀ ▀▀▀  ▀▀▀
+ *
+ *This program is free software:
+ *and PocketEdision Packet Analyze.
+ *
+*/
+
 namespace PEPacketAnalyze\protocol;
 
 use PEPacketAnalyze\protocol\encapsulated\PingPacket;
