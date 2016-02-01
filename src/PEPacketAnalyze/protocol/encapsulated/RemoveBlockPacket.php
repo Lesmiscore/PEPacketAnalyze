@@ -8,7 +8,7 @@
  *▀▀▀.▀    ▀█▄▀▪·▀▀▀ ·▀  ▀ ▀▀▀  ▀▀▀
  *
  *This program is free software:
- *and PocketEdision Packet Analyze.
+ *and PocketEdition Packet Analyze.
  *
 */
 
